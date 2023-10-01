@@ -1,0 +1,6 @@
+streamlit
+streamlit_chat
+dotenv
+os
+langchain
+OpenAI
