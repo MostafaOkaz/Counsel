@@ -1,6 +1,5 @@
 chroma-hnswlib==0.7.2
 chromadb==0.4.5
-coloredlogs==15.0.1
 conda-repo-cli==1.0.41
 conda-verify==3.4.2
 constantly==15.1.0
